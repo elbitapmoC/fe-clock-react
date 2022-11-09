@@ -17,7 +17,7 @@ const Home: NextPage = () => {
 
       <Header />
 
-      <main className="text-center min-h-screen text-white">
+      <main className="text-center min-h-screen">
         <section className="p-8">
           <p className="italic font-bold mb-2">Undefined value:</p>
           <Ramp />
